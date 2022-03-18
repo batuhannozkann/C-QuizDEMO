@@ -1,0 +1,15 @@
+C:\Users\Batuhan\Desktop\c#\QuestionDEMO\QuestionDEMO\bin\Debug\net6.0\QuestionDEMO.exe
+C:\Users\Batuhan\Desktop\c#\QuestionDEMO\QuestionDEMO\bin\Debug\net6.0\QuestionDEMO.deps.json
+C:\Users\Batuhan\Desktop\c#\QuestionDEMO\QuestionDEMO\bin\Debug\net6.0\QuestionDEMO.runtimeconfig.json
+C:\Users\Batuhan\Desktop\c#\QuestionDEMO\QuestionDEMO\bin\Debug\net6.0\QuestionDEMO.dll
+C:\Users\Batuhan\Desktop\c#\QuestionDEMO\QuestionDEMO\bin\Debug\net6.0\QuestionDEMO.pdb
+C:\Users\Batuhan\Desktop\c#\QuestionDEMO\QuestionDEMO\obj\Debug\net6.0\QuestionDEMO.csproj.AssemblyReference.cache
+C:\Users\Batuhan\Desktop\c#\QuestionDEMO\QuestionDEMO\obj\Debug\net6.0\QuestionDEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batuhan\Desktop\c#\QuestionDEMO\QuestionDEMO\obj\Debug\net6.0\QuestionDEMO.AssemblyInfoInputs.cache
+C:\Users\Batuhan\Desktop\c#\QuestionDEMO\QuestionDEMO\obj\Debug\net6.0\QuestionDEMO.AssemblyInfo.cs
+C:\Users\Batuhan\Desktop\c#\QuestionDEMO\QuestionDEMO\obj\Debug\net6.0\QuestionDEMO.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\Desktop\c#\QuestionDEMO\QuestionDEMO\obj\Debug\net6.0\QuestionDEMO.dll
+C:\Users\Batuhan\Desktop\c#\QuestionDEMO\QuestionDEMO\obj\Debug\net6.0\refint\QuestionDEMO.dll
+C:\Users\Batuhan\Desktop\c#\QuestionDEMO\QuestionDEMO\obj\Debug\net6.0\QuestionDEMO.pdb
+C:\Users\Batuhan\Desktop\c#\QuestionDEMO\QuestionDEMO\obj\Debug\net6.0\QuestionDEMO.genruntimeconfig.cache
+C:\Users\Batuhan\Desktop\c#\QuestionDEMO\QuestionDEMO\obj\Debug\net6.0\ref\QuestionDEMO.dll
